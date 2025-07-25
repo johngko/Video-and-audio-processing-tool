@@ -1,0 +1,4 @@
+# requirements.txt
+Flask==2.0.3          # 降低 Flask 版本到稳定兼容版
+Flask-CORS==3.0.10
+Werkzeug==2.0.3       # 固定 Werkzeug 版本与 Flask 匹配
