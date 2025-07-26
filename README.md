@@ -84,6 +84,13 @@ chmod +x build-image.sh
 ./build-image.sh
 ```
 
+1.  运行启动脚本：
+
+
+```
+./offline-deploy.sh
+```
+
 
 
 1.  脚本执行过程说明：
@@ -191,5 +198,3 @@ sudo ./offline-deploy.sh
 *   处理后的文件保存在 /opt/media-processor/output 目录，上传的原始文件保存在 /opt/media-processor/uploads 目录
 
 通过以上步骤，您可以快速搭建一个功能完善的视频音频处理工具，满足日常的媒体处理需求。
-
-> （注：文档部分内容可能由 AI 生成）
