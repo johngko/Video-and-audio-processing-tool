@@ -76,7 +76,7 @@ chmod +x build-image.sh
 
 
 
-1.  运行构建脚本：
+（1）.  运行构建脚本：
 
 
 
@@ -84,7 +84,7 @@ chmod +x build-image.sh
 ./build-image.sh
 ```
 
-1.  运行启动脚本：
+（2）.  运行启动脚本：
 
 
 ```
